@@ -13,7 +13,7 @@
 - Improving my profile to have a greater reach on the internet 
 
 #### 📫 How to reach me:
-<a href="https://linktr.ee/Johann_augustine"><img align="left" alt="Johann linktree" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/30/30864.svg"/></a>
+<a href="https://linktr.ee/Johann_augustine"><img align="left" alt="Johann linktree" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/41/41991.svg"/></a>
 
 
 <!--
