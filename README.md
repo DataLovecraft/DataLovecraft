@@ -6,6 +6,10 @@
 - Taking supplemental online courses about Data Science and Machine Learning 
 - My blog on Mathematics, mind blowing physics and philosophy. 🚀 *coming soon*
 
+#### Tech-stack
+- Programming: Python (NumPy, Pandas, Scikit-learn), SQL 
+- Frameworks: TensorFlow, PyTorch, Keras, Scala, Spark, AWS,  Flask, FastAPI, Plotly Dash
+
 #### :muscle: Things I am challenging myself with:
 - Waking up at 5am and sleeping earlier during the week
 - Coding at least 4 hours a day
