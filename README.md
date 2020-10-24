@@ -6,7 +6,7 @@
 - Taking supplemental online courses about Data Science and Machine Learning 
 - My blog on Mathematics, mind blowing physics and philosophy. 🚀 *coming soon*
 
-#### Tech-stack
+#### :genie: Tech-stack
 - Programming: Python (NumPy, Pandas, Scikit-learn), SQL 
 - Frameworks: TensorFlow, PyTorch, Keras, Scala, Spark, AWS,  Flask, FastAPI, Plotly Dash
 
