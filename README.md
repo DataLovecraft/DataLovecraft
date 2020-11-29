@@ -16,6 +16,8 @@
 - Exercising 4 days a week
 - Improving my profile to have a greater reach on the internet 
 
+:zap: 11/29/2020: I'm currently on a hiatus somewhere deep in the forest. See you all in 2021 :zap:
+
 <a href="https://linktr.ee/Johann_augustine"><img align="left" alt="Johann linktree" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/41/41991.svg"/></a>
 
 
