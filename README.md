@@ -3,13 +3,14 @@
 
 #### 🔭 Things I am currently working on: 
 - <s>Finishing the Data Science track and getting endorsed by Lambda School</s>
-- Lambda School wasnt the best experience. I learned more via youtube, twitter and critial thinking..ok, google search helped a lot. 
-- Taking supplemental online courses about Data Science and Machine Learning 
-- My blog on Mathematics, mind blowing physics and philosophy. 🚀 *coming soon*
+- Lambda School was not the best experience is you're looking for an education. 
+  You can learned more via youtube, twitter and critial thinking..ok, google search helped a lot. With that being said:
+- I am making my own curriculum that challenges my interest in mathematics and computer science. 
+- My blog on Mathematics, mind blowing physics and philosophy. 🚀 https://realjohann.substack.com
 
 #### :genie: Tech-stack
 - Programming: Python (NumPy, Pandas, Scikit-learn), SQL 
-- Frameworks: TensorFlow, PyTorch, Keras, Scala, Spark, AWS,  Flask, FastAPI, Plotly Dash
+- Frameworks: PyTorch AWS, Flask, FastAPI, Plotly Dash`
 
 #### :muscle: Things I am challenging myself with:
 - Waking up at 5am and sleeping earlier during the week
