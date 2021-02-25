@@ -3,10 +3,10 @@
 
 #### 🔭 Things I am currently working on: 
 - <s>Finishing the Data Science track and getting endorsed by Lambda School</s>
-- Lambda School was not the best experience is you're looking for an education. 
+- Lambda School was not the best experience if you're looking for an education. 
   You can learned more via youtube, twitter and critial thinking..ok, google search helped a lot. With that being said:
 - I am making my own curriculum that challenges my interest in mathematics and computer science. 
-- My blog on Mathematics, mind blowing physics and philosophy. 🚀 https://realjohann.substack.com
+- My blog on Mathematics, mind blowing physics and philosophy: 🚀 https://realjohann.substack.com
 
 #### :genie: Tech-stack
 - Programming: Python (NumPy, Pandas, Scikit-learn), SQL 
