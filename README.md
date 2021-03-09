@@ -3,10 +3,8 @@
 
 #### 🔭 Things I am currently working on: 
 - <s>Finishing the Data Science track and getting endorsed by Lambda School</s>
-- Lambda School was not the best experience if you're looking for an education. 
-  You can learned more via youtube, twitter and critial thinking..ok, google search helped a lot.
-- I am making my own curriculum that challenges my interest in mathematics and computer science. 
-- My blog on Mathematics, mind blowing physics and philosophy: 🚀
+- Post-Lambda curriculum that challenges my interest. 
+- A blog on Mathematics, mind blowing physics and philosophy 🚀
 
 #### :genie: Tech-stack
 - Programming: Python (NumPy, Pandas, Scikit-learn), SQL 
@@ -22,6 +20,6 @@
 
 
 <!--
-**DataLovecraft/DataLovecraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jhnnxyzptlk/jhnnxyzptlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
