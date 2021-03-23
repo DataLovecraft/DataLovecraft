@@ -16,6 +16,9 @@
 - Exercising 4 days a week
 - Improving my profile to have a greater reach on the internet 
 
+### :: Connect with me:
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="johannaugustine"><a class="LI-simple-link" href='https://www.linkedin.com/in/johannaugustine?trk=profile-badge'>Johann Augustine</a></div>
+
 <a href="https://linktr.ee/Johann_augustine"><img align="left" alt="Johann linktree" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/41/41991.svg"/></a>
 
 
