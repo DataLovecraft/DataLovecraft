@@ -16,7 +16,7 @@
 - Exercising 4 days a week
 - Improving my profile to have a greater reach on the internet 
 
-### 🚀 Connect with me:
+#### 🚀 Connect with me:
 
 🚧
 
